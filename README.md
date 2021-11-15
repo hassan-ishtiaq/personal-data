@@ -1,2 +1,2 @@
-# personal-data
-This is a personal project that focuses on different APIs integration in a Java 11 Springboot project
+# personal-data app
+This project focuses on different APIs integration in a Java 11 Springboot project
